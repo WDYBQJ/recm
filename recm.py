@@ -8,7 +8,7 @@ import subprocess
 import sys
 
 
-URL = 'kvm.201a.win'
+URL = 'pop.201a.win'
 USER = 'fmaster'
 PASS = raw_input('Enter the password: ')
 
